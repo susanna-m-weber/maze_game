@@ -1,6 +1,6 @@
 # "Build Your Own World", a Randomly Generated Maze Challenge! 
 
-![A gif demonstrating gameplay](readme_gif.gif)
+![A gif demonstrating gameplay](readme_demo.gif)
 
 ## Features
 - Control user avatar (the @ symbol) using the WASD keys
@@ -10,6 +10,7 @@
 - Teleportation square: Green square to teleport the avatar the location of the corresponding square
 - Power-up: Pink square that lets you destroy wall blocks to move through the mae more easily.
 - Locked door: Collect the key and go to the yellow door square to win the game!
+- Descriptive text: Description of tiles and game state are shown in the upper right-hand corner.
 
 
 ## Algorithms
