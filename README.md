@@ -1,4 +1,4 @@
-# "Build Your Own World", a Randomly Generated Game
+# "Build Your Own World", a Randomly Generated Maze Challenge! 
 
 
 ## Algorithms
