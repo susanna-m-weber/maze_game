@@ -1,4 +1,4 @@
-# "Build Your Own World", a Randomly Generated Maze Challenge! 
+# "Build Your Own World", a Randomly Generated Maze Challenge Made with Java! 
 
 ![A gif demonstrating gameplay](readme_demo.gif)
 
