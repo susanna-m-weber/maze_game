@@ -2,6 +2,9 @@
 
 ![A gif demonstrating gameplay](readme_demo.gif)
 
+## Overview 
+This is as 2D tile-based video game engine made using Java, created for a Berkeley CS 61B project with the goal of demonstrating design skills and the use of different data structures to generate a map, save player data, and support multiple game states. It allows the user to start new games or load old ones, with each game layout being generated using a string of numbers entered by the player. 
+
 ## Features
 - Control user avatar (the @ symbol) using the WASD keys
 - Pursuer: A red block that follow the use avatar, and ends the game if it catches the user.
