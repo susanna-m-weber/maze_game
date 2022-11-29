@@ -1,5 +1,6 @@
 # "Build Your Own World", a Randomly Generated Maze Challenge! 
 
+![A gif demonstrating gameplay](readme_gif.gif)
 
 ## Algorithms
 ### Generating the rooms 
