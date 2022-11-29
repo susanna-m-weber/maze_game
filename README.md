@@ -2,6 +2,16 @@
 
 ![A gif demonstrating gameplay](readme_gif.gif)
 
+## Features
+- Control user avatar (the @ symbol) using the WASD keys
+- Pursuer: A red block that follow the use avatar, and ends the game if it catches the user.
+- Toggle path: Pressing the 'p' key on the keyboard shows the pursuer's path in red. 
+- Toggle lights: Pressing the 'q' key turns the lights on and off and highlights only the avatar and the pursuer
+- Teleportation square: Green square to teleport the avatar the location of the corresponding square
+- Power-up: Pink square that lets you destroy wall blocks to move through the mae more easily.
+- Locked door: Collect the key and go to the yellow door square to win the game!
+
+
 ## Algorithms
 ### Generating the rooms 
 The algorithm starts by splitting the world into four rectangles of random size using the randomsplit() method, creating four rooms. 
